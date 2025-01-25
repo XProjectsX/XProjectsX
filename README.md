@@ -1,53 +1,29 @@
-# Hi there, I'm XProjectsX! 👋
-
-Welcome to my GitHub profile! I'm a passionate developer who loves working on exciting projects and exploring new technologies. Here’s a bit about me:
-
-## 🔧 Technologies & Tools
-
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, AWS
-- **Databases:** MySQL, PostgreSQL, MongoDB
-
-## 🌱 Currently Learning
-
-- Machine Learning with Python
-- Advanced React Patterns
-- DevOps practices
-
-## 🚀 Projects
-
-Here are a few projects I've been working on:
-
-### [Project 1: Awesome Web App](https://github.com/XProjectsX/awesome-web-app)
-A web application built with React and Node.js that allows users to manage tasks efficiently.
-
-### [Project 2: Machine Learning Model](https://github.com/XProjectsX/machine-learning-model)
-A machine learning project that predicts housing prices based on various features using Python and scikit-learn.
-
-### [Project 3: Kubernetes Deployment](https://github.com/XProjectsX/kubernetes-deployment)
-A project demonstrating the deployment of a microservices architecture using Kubernetes and Docker.
-
-## 📝 Blog Posts
-
-I occasionally write about my experiences and learnings. Check out my latest posts:
-
-- [Understanding Docker and Containers](https://blog.example.com/docker-containers)
-- [Getting Started with React Hooks](https://blog.example.com/react-hooks)
-- [An Introduction to Machine Learning](https://blog.example.com/machine-learning-introduction)
-
-## 📫 How to reach me
-
-- **Email:** [xprojectsx@example.com](mailto:xprojectsx@example.com)
-- **LinkedIn:** [linkedin.com/in/xprojectsx](https://linkedin.com/in/xprojectsx)
-- **Twitter:** [@XProjectsX](https://twitter.com/XProjectsX)
-
-## ⚡ Fun Fact
-
-In my free time, I love hiking, reading sci-fi novels, and playing the guitar.
-
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
-
-<!--
-**XProjectsX/XProjectsX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h1 align="center"><img src="https://github.com/ximfine/XUserbot/blob/227f1311bc6f9a484e79da8cdaa0df53d6cd87ec/userbot/resources/Music.gif" width="30px">&nbsp;<u><b>MY PROFILE</b></u>&nbsp;<img src="https://github.com/ximfine/XUserbot/blob/227f1311bc6f9a484e79da8cdaa0df53d6cd87ec/userbot/resources/Music.gif" width="30px"></h1><br>
+<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
+<img src="https://telegra.ph/file/9142e8ab1f494dc7f082d.png" />
+<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
+<a href="https://www.reddit.com/user">
+  <img align="right" alt="XProjectsX Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://www.youtube.com">
+  <img align="right" alt="XProjectsX Youtube Channel" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://pinterest.com">
+  <img align="right" alt="XProjectsX Pinterest" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
+</a>
+<a href="https://t.me/DarkSideXD">
+  <img align="left" alt="XProjectsX Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://twitter.com">
+  <img align="left" alt="XProjectsX Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/">
+  <img align="left" alt="XProjectsX Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com">
+  <img align="center" alt="XProjectsX Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br>
+<br><p align="center"><a href="https://github.com/XProjectsX"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DXProjectsX&longCache=true"></a></p>
+<p align="center"><a href="https://github.com/XProjectsX"><img src="https://github-readme-stats.vercel.app/api?username=XProjectsX&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/XProjectsX"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XProjectsX&theme=radical&layout=compact"></a></p>
